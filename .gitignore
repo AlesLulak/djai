@@ -1,0 +1,8 @@
+stems
+stems.exe
+*_stems/
+*.wav
+*.mp3
+*.flac
+djai
+*.cues
